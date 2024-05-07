@@ -29,4 +29,5 @@ const PostSearch = () => {
         </form>
     )
 }
+
 export {PostSearch};
